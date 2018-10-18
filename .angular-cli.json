@@ -19,6 +19,7 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
+        "../node_modules/todomvc-app-css/index.css",
         "styles.css"
       ],
       "scripts": [],
